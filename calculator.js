@@ -1,6 +1,11 @@
-/* Write a function that takes a ph value and 
-returns whether the value is acidic, neutral or alkaline. 
-(PH value < 7 is acidic, 7 is neutral, > 7 alkaline)
+/* Write a simple calculator program that calculates 
+the difference, sum or product of two numbers. 
+
+The function takes as a parameter, the type of calculation to perform and two numbers.
+
+Then based on the type of calculation given 
+(addition, subtraction, multiplication, division), 
+it performs the calculation and returns the result.
 */
 
 function myCalculator(number1, operator, number2) {
